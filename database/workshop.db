@@ -6219,6 +6219,7 @@
 {"disc_number":1,"name":"Tea For One","duration_ms":1,"track_number":7,"docType":"TRACK","comments":[],"commentsCount":0,"_id":"yzBoebaYINlbtVw8","createdAt":{"$$date":1478280657929},"updatedAt":{"$$date":1478280657929}}
 {"disc_number":1,"name":"If You Have To Ask","duration_ms":1,"track_number":2,"docType":"TRACK","comments":[],"commentsCount":0,"_id":"yzRCCYxzO2FYDwhX","createdAt":{"$$date":1478280658062},"updatedAt":{"$$date":1478280658062}}
 {"disc_number":2,"name":"Mother Nature's Son - Remastered","duration_ms":2,"track_number":3,"docType":"TRACK","comments":[],"commentsCount":0,"_id":"yzcCylRROXsw2Xcl","createdAt":{"$$date":1478280658096},"updatedAt":{"$$date":1478280658096}}
+{"docType":"USER","password":"$2a$10$3zkwaz2LcU4yzSPN.jY42uGWH5CHQyIc/JGLtPMQHm2lDDSw4PsXG","email":"example@example.com","_id":"yzfzBZT8qeqbfzY2","createdAt":{"$$date":1478470737963},"updatedAt":{"$$date":1478470737963}}
 {"disc_number":2,"name":"Dive - Smart Sessions","duration_ms":2,"track_number":7,"docType":"TRACK","comments":[],"commentsCount":0,"_id":"yzq44Q8B9IwovYfe","createdAt":{"$$date":1478280657996},"updatedAt":{"$$date":1478280657996}}
 {"disc_number":2,"name":"Pay To Play - Smart Sessions","duration_ms":2,"track_number":5,"docType":"TRACK","comments":[],"commentsCount":0,"_id":"z0kmGjAEGVwSE5RM","createdAt":{"$$date":1478280658000},"updatedAt":{"$$date":1478280658000}}
 {"disc_number":2,"name":"In The Light - .","duration_ms":2,"track_number":1,"docType":"TRACK","comments":[],"commentsCount":0,"_id":"z0knA3vs2d5LuDeK","createdAt":{"$$date":1478280657934},"updatedAt":{"$$date":1478280657934}}
@@ -6312,4 +6313,3 @@
 {"disc_number":1,"name":"Spank Thru - 1992/Live at Reading","duration_ms":1,"track_number":21,"docType":"TRACK","comments":[],"commentsCount":0,"_id":"zvfrOqEjzigosshy","createdAt":{"$$date":1478280658002},"updatedAt":{"$$date":1478280658002}}
 {"disc_number":1,"name":"Breed - Live In London / 1989","duration_ms":1,"track_number":15,"docType":"TRACK","comments":[],"commentsCount":0,"_id":"zx4cyTFizjXq29lU","createdAt":{"$$date":1478280658004},"updatedAt":{"$$date":1478280658004}}
 {"disc_number":1,"name":"Semi-Charmed Life","duration_ms":1,"track_number":7,"docType":"TRACK","comments":[],"commentsCount":0,"_id":"zznGduprdcJTN4Ad","createdAt":{"$$date":1478280657913},"updatedAt":{"$$date":1478280657913}}
-{"docType":"USER","password":"$2a$10$3zkwaz2LcU4yzSPN.jY42uGWH5CHQyIc/JGLtPMQHm2lDDSw4PsXG","email":"example@example.com","_id":"yzfzBZT8qeqbfzY2","createdAt":{"$$date":1478470737963},"updatedAt":{"$$date":1478470737963}}

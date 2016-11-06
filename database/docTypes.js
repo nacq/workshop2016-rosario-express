@@ -3,5 +3,6 @@ module.exports = {
     ARTIST: 'ARTIST',
     COMMENT: 'COMMENT',
     BAND: 'BAND',
-    TRACK: 'TRACK'
+    TRACK: 'TRACK',
+		USER: 'USER'
 };

@@ -5,7 +5,10 @@ const colors = require('colors/safe');
 const express = require('express');
 const router = require('./api/router');
 const bodyParser = require('body-parser');
+const passport = require('passport');
 const app = express();
+
+require('./config/passport')(passport)
 
 app.use((req, res, next) => {
     res.header("Access-Control-Allow-Origin", "*");

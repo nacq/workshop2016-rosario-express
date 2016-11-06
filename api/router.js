@@ -3,6 +3,7 @@ const colors = require('colors/safe');
 const trackController = require('./controllers/TrackController').instance; //Sample controller
 const bandController = require('./controllers/BandController').instance;
 const commentController = require('./controllers/CommentController').instance;
+const userController = require('./controllers/UserController').instance;
 
 // Specific router middleware that shows the request timestamp
 router.use((req, res, next) => {
@@ -22,6 +23,9 @@ router.get('/bands', bandController.getList)
 router.get('/bands/:id', bandController.getById)
 router.get('/bands/:id/albums', bandController.getAlbums)
 router.get('/bands/:id/artists', bandController.getArtists)
+
+router.post('/signup', userController.signUp)
+router.post('/signin', userController.signIn)
 
 
 

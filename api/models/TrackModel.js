@@ -19,28 +19,11 @@ class TrackModel {
 					.then(band => {
 						console.log(band)
 						resolve(band.comments)
-						// return dataBase.find({ _id: { $in: band.albums }, docType: docTypes.ALBUM })
 					})
-					// .then(albums => {
-					// 	resolve(albums)
-					// })
 					.catch(err => {
 						rejected(err)
 					})
 			})
-			// return new Promise((resolve, rejected) => {
-			// 	dataBase.findOne({ _id: id })
-			// 		.then(track => {
-			// 			return dataBase.find({ _id: { $in: track.comments }, docType: docTypes.TRACK })
-			// 		})
-			// 		.then(comments => {
-			// 			console.log(comments)
-			// 			resolve(comments)
-			// 		})
-			// 		.catch(err => {
-			// 			rejected(err)
-			// 		})
-			// })
 		}
 
 

@@ -16,6 +16,7 @@ router.get('/tracks/:id', trackController.getById)
 router.get('/tracks/:id/comments', trackController.getComments)
 
 router.post('/comments', commentController.newComment)
+router.delete('/comments/:trackId/:commentId', commentController.deleteComment)
 
 router.get('/bands', bandController.getList)
 router.get('/bands/:id', bandController.getById)
